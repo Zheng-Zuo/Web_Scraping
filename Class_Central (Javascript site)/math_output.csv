@@ -1,0 +1,582 @@
+rating,number_of_reviews,name
+4.0,12,Intro to Descriptive Statistics
+4.8,13,Queuing Theory: from Markov Chains to Multi-Server Systems
+4.8,10,Introduction to Statistics: Descriptive Statistics
+4.6,8,Calculus: Single Variable Part 1 - Functions
+4.4,12,Introduction to Linear Models and Matrix Algebra
+4.2,12,Linear Algebra - Foundations to Frontiers
+4.5,13,Introduction to Renormalization
+4.8,350,Matrix Algebra for Engineers
+3.3,14,College Algebra
+4.7,25,Tutorials for Complex Systems
+4.6,14,Effective Thinking Through Mathematics
+0.0,0,2.- El Cálculo - Modelo Cuadrático
+3.8,11,Basic Statistics
+4.2,15,How to Learn Math: For Students
+4.8,18,Introduction to Algebra
+4.6,10,Maximum Entropy Methods
+4.0,1,Pre-Calculus
+0.0,0,1.- El Cálculo - Modelo Lineal
+4.9,28,Bases Matemáticas: Derivadas
+0.0,0,3.- El Cálculo - Modelo Cúbico
+0.0,0,4.- El Cálculo - Otros Modelos
+0.0,0,Structural Equation Model and its Applications | 结构方程模型及其应用 (粤语)
+5.0,1,Теория вероятностей для начинающих
+0.0,0,Теория графов
+0.0,0,Introduction à la théorie de Galois
+0.0,0,Современная комбинаторика (Modern combinatorics)
+0.0,0,Случайные графы
+4.9,8,Convex Optimization
+0.0,0,Algebra and Trigonometry
+4.5,8,Intro to Inferential Statistics
+3.4,8,Intro Algebra Review
+4.8,8,Introduction to Geometry
+4.7,34,"Advanced Precalculus: Geometry, Trigonometry and Exponentials"
+5.0,1,Комбинаторика для начинающих
+4.1,29,Statistical Learning
+4.7,9,Introduction to Differential Equations
+4.9,32,Probability - The Science of Uncertainty and Data
+4.6,34,Bases Matemáticas: Álgebra
+3.4,37,Intro to Statistics
+3.7,9,Introduction to Information Theory
+4.8,35,"Precalculus: the Mathematics of Numbers, Functions and Equations"
+4.3,118,Estadística Aplicada a los Negocios
+4.8,69,Bases Matemáticas: Números y terminología
+4.7,146,Mathematical Economics
+4.4,50,Introduction to Mathematical Thinking
+4.9,54,Fractals and Scaling
+4.9,205,Differential Equations for Engineers
+4.9,174,Fibonacci Numbers and the Golden Ratio
+4.8,170,Vector Calculus for Engineers
+4.8,119,Introduction to Dynamical Systems and Chaos
+0.0,0,Теория вероятностей - наука о случайности
+0.0,0,Inferential Statistics
+3.0,3,Linear Regression and Modeling 
+0.0,0,Fundamentos de probabilidad y aplicaciones
+0.0,0,Fundamentos de estadística aplicada
+3.5,6,Introduction to Probability and Data with R
+5.0,5,Calculus: Single Variable Part 2 - Differentiation
+0.0,0,Statistics with R Capstone
+5.0,1,Estadística y probabilidad
+0.0,0,离散数学
+0.0,0,Aprendizaje de las matemáticas de primaria
+0.0,0,Funciones algebraicas y trascendentes 
+5.0,1,Mathematics for economists
+0.0,0,Delivery Problem
+0.0,0,Precalculus: Relations and Functions
+4.3,4,Calculus: Single Variable Part 3 - Integration
+0.0,0,What are the Chances? Probability and Uncertainty in Statistics
+4.7,3,Calculus: Single Variable Part 4 - Applications
+0.0,0,Precalculus: Periodic Functions
+0.0,0,Linear Regression for Business Statistics
+0.0,0,Business Applications of Hypothesis Testing and Confidence Interval Estimation 
+0.0,0,Смешанные линейные модели
+0.0,0,Geometría Analítica Preuniversitaria
+0.0,0,Qualitative Comparative Analysis (QCA)
+0.0,0,Математические методы и модели в экономике
+5.0,1,Improving your statistical inferences
+0.0,0,Математика для всех
+5.0,1,Bayesian Statistics: Techniques and Models
+0.0,0,Применение производной и интеграла в курсе общей физики
+4.7,3,Probability and Statistics: To p or not to p?
+0.0,0,Теория функций комплексного переменного
+0.0,0,Doğrusal Cebir I: Uzaylar ve İşlemciler / Linear Algebra I: Spaces and Operators
+0.0,0,"Doğrusal Cebir II: Kare Matrisler, Hesaplama Yöntemleri ve Uygulamalar / Linear Algebra II: Square Matrices, Calculation Methods and Applications"
+0.0,0,Aléatoire : une introduction aux probabilités - Partie 2
+0.0,0,Линейная алгебра (Linear Algebra)
+0.0,0,Estatística não-paramétrica para a tomada de decisão
+0.0,0,Çok değişkenli Fonksiyon II: Uygulamalar / Multivariable Calculus II: Applications
+4.5,2,Aléatoire : une introduction aux probabilités - Partie 1
+0.0,0,Математическая теория игр
+5.0,5,Introduction to Calculus
+0.0,0,Computational Geometry
+0.0,0,Automated Reasoning: satisfiability
+4.0,2,Analytic Combinatorics
+3.0,1,Çok değişkenli Fonksiyon I: Kavramlar / Multivariable Calculus I:  Concepts
+0.0,0,Знакомство с R и базовая статистика
+0.0,0,Inferential Statistics
+0.0,0,Линейная регрессия
+0.0,0,Geometric Algorithms
+0.0,0,Precalculus: Mathematical Modeling
+0.0,0,頑想學概率：機率二 (Probability (2))
+5.0,2,Introduction to Enumerative Combinatorics
+0.0,0,Algebra & Algorithms
+0.0,0,頑想學概率：機率一 (Probability (1))
+3.0,1,Power and Sample Size for Multilevel and Longitudinal Study Designs
+5.0,1,Estadística aplicada a los negocios
+3.0,1,Matrix Methods
+5.0,3,Introduction to Complex Analysis
+0.0,0,离散数学概论 Discrete Mathematics Generality
+0.0,0,Линейная алгебра и аналитическая геометрия
+0.0,0,Статистические методы в гуманитарных исследованиях
+0.0,0,Введение в математические методы физики
+0.0,0,Introductory Mathematical Methods for Biologists
+0.0,0,Advanced Functions: A Complete Course on Precalculus
+0.0,0,Statistics with SAS
+4.0,1,A Crash Course in Causality:  Inferring Causal Effects from Observational Data
+0.0,0,Probability and Statistics 1: The Complete Guide
+0.0,0,Mastering Derivatives: A Complete Calculus Course
+0.0,0,Basic Linear Algebra
+0.0,0,MCDM Techniques using R
+0.0,0,Математическая логика. Политехнический взгляд
+0.0,0,Structural Equation Model and its Applications | 结构方程模型及其应用 (普通话)
+0.0,0,Descriptive Statistics with R Software
+3.3,3,Math behind Moneyball
+0.0,0,Game-Theoretic Solution Concept with Spread Sheets
+0.0,0,Алгебраическая теория графов
+0.0,0,Learn Complete Calculus 1 from scratch
+0.0,0,Complete linear algebra: theory and implementation in code
+0.0,0,Calculus 1: The Complete Guide
+0.0,0,Become a Probability & Statistics Master
+0.0,0,Calculus
+0.0,0,Statistics Foundations: 2
+0.0,0,Learning Algebra: Pre-Algebra
+0.0,0,Математика в тестировании дискретных систем
+0.0,0,Become an Algebra Master
+0.0,0,Become a Geometry Master
+5.0,3,Calculus 1C: Coordinate Systems & Infinite Series
+0.0,0,Calculus through Data & Modeling: Differentiation Rules
+0.0,0,Workshop in Probability and Statistics
+0.0,0,Become a Calculus 3 Master
+0.0,0,Become a Calculus 2 Master
+0.0,0,Become a Calculus 1 Master
+0.0,0,Mathematical and Computational Methods
+0.0,0,Calculus through Data & Modeling: Limits & Derivatives
+0.0,0,Математическая статистика и А/В тестирование
+0.0,0,Calculus through Data & Modeling: Applying Differentiation
+5.0,1,Mathematics for Computer Science
+0.0,0,"Дискретная математика: подсчеты, графы, случайные блуждания"
+0.0,0,Линейные модели с дискретными предикторами
+4.7,3,Computational Probability and Inference
+0.0,0,Assessment for learning in practice
+5.0,1,Algèbre Linéaire (Partie 3)
+0.0,0,Bayesian Statistics: Mixture Models
+0.0,0,BPMN Meets DMN: Business Process and Decision Modeling
+5.0,1,Policy Analysis Using Interrupted Time Series
+4.7,3,Discovery Precalculus: A Creative and Connected Approach
+0.0,0,Matematica per principianti: insiemi e operazioni elementari
+0.0,0,Introduzione ai numeri complessi
+0.0,0,Cosa sapere prima di iniziare un corso di Matematica all’Università
+5.0,1,Linear Algebra Refresher Course
+5.0,3,College Algebra and Problem Solving
+4.0,2,Fun with Prime Numbers: The Mysterious World of Mathematics
+4.7,6,I Heart Stats: Learning to Love Statistics
+5.0,1,Algèbre Linéaire (Partie 2)
+3.0,1,Math 101
+0.0,0,Einführung in die Mathematik der Algorithmik
+2.0,4,SP18:  Time Series Analysis
+0.0,0,Take off with Stats in Python
+0.0,0,คณิตศาสตร์เพื่อคอมพิวเตอร์ (Mathematics for Computer)
+4.0,3,Game Theory II- Dynamic Games
+5.0,5,Statistics
+5.0,2,Vector and Matrix Algebra
+5.0,1,Introduction to Statistics
+0.0,0,Введение в дискретную математику
+0.0,0,Основы статистики. Часть 3
+5.0,4,Functions and Iterations
+5.0,4,Random Walks
+5.0,3,Ordinary Differential Equations
+0.0,0,คณิตเศรษฐศาสตร์และเศรษฐมิติเพื่อการธุรกิจ | Mathematical Economics and Econometrics for Business
+0.0,0,Основы статистики
+0.0,0,Основы статистики. Часть 2
+5.0,4,Introduction to Probability: Part 1 - The Fundamentals
+0.0,0,Eigenvectors and Eigenvalues
+0.0,0,Initiez-vous à la statistique inférentielle
+5.0,2,Algèbre Linéaire (Partie 1)
+4.0,1,"Cours préparatoire: Fonctions Trigonométriques, Logarithmiques et Exponentielles"
+4.5,2,Applications of Linear Algebra (Part 2)
+0.0,0,Einführung in die Graphentheorie
+3.7,3,Precalculus
+3.3,3,"Introduction to Probability, Statistics, and Random Processes"
+4.0,3,Applications of Linear Algebra (Part 1)
+5.0,3,Introduction to Statistics: Inference
+4.6,7,Introduction to Statistics: Probability
+2.6,5,Visualizing Algebra
+5.0,2,Differential Equations in Action
+5.0,2,Differential Equations: Linear Algebra and NxN Systems of Differential Equations
+4.0,7,Street Fighting Mathematics
+0.0,0,Обобщенные линейные модели
+0.0,0,Differential Calculus through Data and Modeling
+0.0,0,Probability: Basic Concepts & Discrete Random Variables
+0.0,0,MathTrackX: Integral Calculus
+5.0,6,Introduction to Differential Equations
+0.0,0,MathTrackX: Probability
+0.0,0,MathTrackX: Special Functions
+0.0,0,MathTrackX: Differential Calculus
+0.0,0,"MathTrackX: Polynomials, Functions and Graphs"
+0.0,0,More Fun with Prime Numbers
+5.0,7,Calculus 1A: Differentiation
+0.0,0,Математические и инструментальные методы машинного обучения
+5.0,2,Engineering Calculus and Differential Equations
+0.0,0,Cómo Aprender Matemáticas - Para Estudiantes
+3.5,2,Combinatorial Mathematics | 组合数学
+0.0,0,Mathematical Modelling Basics
+4.5,2,Calculus Applied!
+0.0,0,Decision Making Under Uncertainty: Introduction to Structured Expert Judgment
+5.0,1,Introduction to Probability
+4.8,5,Fat Chance: Probability from the Ground Up
+0.0,0,RiceX Linear Algebra Part 1
+0.0,0,Advanced Linear Algebra: Foundations to Frontiers
+0.0,0,Probability and Statistics I:  A Gentle Introduction to Probability
+0.0,0,Operations Research: an Active Learning Approach
+0.0,0,Introducción al Álgebra Lineal
+4.7,3,Pre-University Calculus
+0.0,0,Matemáticas esenciales en los números reales y complejos
+0.0,0,MathTrackX: Statistics
+0.0,0,Matemáticas básicas
+5.0,2,Estadística para investigadores: Todo lo que siempre quiso saber
+0.0,0,Fundamentos de Álgebra Lineal
+0.0,0,Estadística descriptiva
+0.0,0,Las matrices y sus aplicaciones
+0.0,0,Probabilidad básica
+4.0,1,Bases Matemáticas: Integrales
+0.0,0,"A-level Mathematics for Year 13 - Course 2: General Motion, Moments and Equilibrium, The Normal Distribution, Vectors, Differentiation Methods, Integration Methods and Differential Equations"
+0.0,0,Ética en la investigación universitaria
+4.0,2,Statistics: Unlocking the World of Data
+0.0,0,Introduction to Statistics for Data Science
+3.0,2,Essential Math for Machine Learning: Python Edition
+0.0,0,Sta(r)tistics: Statistics for everyone (HE)
+0.0,0,"A-level Mathematics for Year 13 - Course 1: Functions, Sequences and Series, and Numerical Methods"
+3.0,1,Essential Math for Machine Learning: R Edition
+5.0,1,คณิตศาสตร์วิศวกรรม II (Engineering Mathematics II)
+0.0,0,คณิตศาสตร์สำหรับวิทยาศาสตร์ข้อมูล (Mathematics for Data Science)
+0.0,0,Complex Analysis with Physical Applications
+0.0,0,Introducción a Matemática II
+0.0,0,Become a Linear Algebra Master
+5.0,2,Statistics for Business - II
+5.0,1,"A-level Mathematics for Year 12 - Course 2: Calculus, Newton’s Laws and Hypothesis Testing"
+5.0,1,"A-level Mathematics for Year 12 - Course 1: Algebraic Methods, Graphs and Applied Mathematics Methods"
+0.0,0,Probability: Distribution Models & Continuous Random Variables
+0.0,0,Probability and Statistics IV: Confidence Intervals and Hypothesis Tests
+0.0,0,Матанализ. 6 семестр. Уравнения математической физики. Часть 2
+5.0,1,Critical Thinking
+0.0,0,Introductory Statistics : Sample Survey and Instruments for Statistical Inference
+0.0,0,College Algebra
+0.0,0,Basics of mathematical modeling of systems
+0.0,0,"Signals, Systems, and Learning"
+4.5,6,Cálculo Diferencial
+5.0,7,Introducción a las ecuaciones diferenciales
+4.8,4,Statistics for Business – I
+0.0,0,Introductory Statistics : Analyzing Data Using Graphs and Statistics
+1.0,1,Introductory Statistics : Basic Ideas and Instruments for Statistical Inference
+0.0,0,Transfer Functions and the Laplace Transform
+5.0,4,Métodos numéricos para matemáticas con Octave
+0.0,0,Introducción a Matemáticas para Finanzas y Negocios
+0.0,0,"Maths Puzzles: Cryptarithms, Symbologies and Secret Codes"
+0.0,0,Statistics with Python
+0.0,0,18.01x Single Variable Calculus
+0.0,0,Probabilistic Graphical Models 
+0.0,0,Mathematics for Data Science
+3.0,1,Mathematics for Machine Learning
+0.0,0,Methods and Statistics in Social Sciences
+0.0,0,18.03x Differential Equations
+0.0,0,Introduction to Discrete Mathematics for Computer Science
+0.0,0,SAS Statistical Business Analyst
+0.0,0,MathTrackX
+0.0,0,Bases matemáticas para estudiar ingeniería
+0.0,0,Advanced Statistics for Data Science
+0.0,0,Математика для анализа данных
+0.0,0,Precalculus through Data and Modelling
+0.0,0,Матанализ. 5 семестр. Уравнения математической физики. Часть 1
+0.0,0,Матанализ. 4 семестр Теория функций комплексного переменного
+0.0,0,Матанализ. 2 семестр Интегральное исчисление
+0.0,0,Матанализ. 3 семестр Кратные интегралы и ряды
+0.0,0,Матанализ. 1 семестр Дифференциальное исчисление
+5.0,4,Complex analysis
+4.7,3,Statistical Inference and Modeling for High-throughput Experiments
+0.0,0,Matemáticas para la U
+5.0,1,Linear Algebra IV: Orthogonality & Symmetric Matrices and the SVD
+5.0,1,Calculus 1B: Integration
+0.0,0,Linear Algebra III: Determinants and Eigenvalues
+5.0,4,Differential Equations: 2x2 Systems
+0.0,0,Wiskunde voor (startende) studenten
+0.0,0,Linear Algebra I: Linear Equations
+0.0,0,AP® Calculus: Challenging Concepts from Calculus AB & Calculus BC
+0.0,0,Linear Algebra II: Matrix Algebra
+0.0,0,Introduction to Probability Management
+0.0,0,Probability and Statistics II:  Random Variables – Great Expectations to Bell Curves
+0.0,0,Probability and Statistics III: A Gentle Introduction to Statistics
+0.0,0,AP® Calculus BC
+0.0,0,Methods and Statistics in Social Science - Final Research Project
+5.0,1,Introduction to Statistics & Data Analysis in Public Health
+4.0,1,Introduction to Graph Theory
+4.5,2,Mathematical Thinking in Computer Science
+0.0,0,Causal Inference  2
+5.0,1,Linear Regression in R for Public Health 
+0.0,0,Logistic Regression in R for Public Health
+5.0,1,Summary Statistics in Public Health 
+5.0,1,Hypothesis Testing in Public Health 
+5.0,1,Multiple Regression Analysis in Public Health 
+0.0,0,Causal Inference
+0.0,0,Invitation to Mathematics     הזמנה למתמטיקה
+0.0,0,Математические методы в психологии. Основы применения (Mathematical Methods in Psychology: Basics of Applying)
+0.0,0,Survival Analysis in R for Public Health
+2.9,7,Mathematics for Machine Learning: Linear Algebra
+0.0,0,Introduction to numerical analysis
+0.0,0,Cálculo Diferencial e Integral unidos por el Teorema Fundamental del Cálculo
+0.0,0,Linear Algebra
+4.0,3,An Intuitive Introduction to Probability
+0.0,0,"Probability Theory, Statistics and Exploratory Data Analysis"
+0.0,0,Probability Foundations for Electrical engineers
+0.0,0,Jacobi modular forms: 30 ans après
+5.0,1,Design and Analysis of Experiments
+0.0,0,Numerical Linear Algebra
+0.0,0,Statistical Inference
+0.0,0,Multivariable calculus
+5.0,1,Introduction to Commutative Algebra
+0.0,0,Геометрия и группы
+0.0,0,Transform Calculus and its applications in Differential Equations
+0.0,0,Financial Mathematics
+0.0,0,Integral and Vector Calculus
+0.0,0,Statistical Mechanics
+5.0,2,Introduction to Ordinary Differential Equations
+5.0,2,Combinatorics and Probability
+0.0,0,Applied Multivariate Statistical Modeling
+0.0,0,Introduction to Galois Theory
+0.0,0,Foundations of Mathematical Statistics
+0.0,0,Álgebra básica
+0.0,0,Probability and Probability Distributions
+0.0,0,Descriptive Statistics
+0.0,0,"Skills for A Level Further Mathematics Course 1: Complex Numbers, Matrices, Roots of Polynomial Equations, Series and Vectors"
+0.0,0,Discrete Mathematics
+0.0,0,Numerical Analysis
+0.0,0,Biostatistics and Mathematical Biology
+0.0,0,Probabilités pour l'ingénieur
+0.0,0,Operations Research
+0.0,0,Optimization from fundamentals
+4.3,9,Equazioni differenziali lineari del secondo ordine
+4.4,7,Fundamentals of Statistics
+0.0,0,Introduction to Algebraic Topology (Part-I)
+5.0,9,BetOnMath for citizens
+0.0,0,Measure Theory
+0.0,0,Ordinary and Partial Differential Equations and Applications
+5.0,3,Differential Equations: Fourier Series and Partial Differential Equations
+0.0,0,Variational Calculus and its applications in Control Theory and Nanomechanics
+0.0,0,Introduction to Stochastic Processes
+0.0,0,Introduction to Algebraic Geometry and Commutative Algebra
+0.0,0,Fourier Analysis and Its Applications
+0.0,0,Introduction to probability and Statistics
+0.0,0,Теория вероятностей и ее приложения
+0.0,0,Numerical Methods In Civil Engineering
+0.0,0,Mathematics XI Part-I
+0.0,0,Mathematics XI Part-II
+0.0,0,Modèles de durée
+0.0,0,Sr.Secondary : Mathematics 311
+0.0,0,Secondary : Mathematics 211
+0.0,0,Mathematics for Data Science: Essential Mathematics for Machine Learning and AI
+0.0,0,Laboratorio di Matematica per Architettura
+0.0,0,Essential Mathematics for Data Analysis in Microsoft Excel
+4.0,1,College Math Foundations
+0.0,0,Microsoft Future Ready: Essential Mathematics for Machine Learning and AI
+0.0,0,Mathematics XII Part-I
+0.0,0,Graph Theory 
+0.0,0,"Random Models, Nested and Split-plot Designs"
+0.0,0,Factorial and Fractional Factorial Designs
+0.0,0,"Response Surfaces, Mixtures, and Model Building"
+0.0,0,"Applied Linear Algebra for Signal Processing, Data Analytics and Machine Learning"
+0.0,0,Basic Calculus 1 and 2
+0.0,0,Applied Linear Algebra
+0.0,0,Functional Analysis
+0.0,0,Basic Calculus - 1
+0.0,0,Experimental Design Basics
+0.0,0,Discrete Mathematics - IIT Ropar
+0.0,0,First Course on Partial Differential Equations - I
+0.0,0,Algebra - II
+0.0,0,Discrete Mathematics - IIITB
+0.0,0,Calculus through Data & Modeling: Precalculus Review
+0.0,0,An Introduction to smooth Manifolds
+0.0,0,Introduction to Probability (with examples using R)
+0.0,0,Engineering Mathematics II
+0.0,0,Computational Mathematics with SageMath
+0.0,0,Introduction to Galois Theory
+0.0,0,"Fuzzy Sets, Logic and Systems & Applications"
+0.0,0,Advanced Partial Differential Equations
+0.0,0,Basic Real Analysis
+2.0,1,Discrete Math and Analyzing Social Graphs
+0.0,0,Computational Geometry
+0.0,0,Introduction to Rings and Fields
+0.0,0,Advanced Probability Theory
+0.0,0,Probabilistic Methods in PDE
+0.0,0,Линейная алгебра: от идеи к формуле
+0.0,0,"Analytic Combinatorics, Part II"
+0.0,0,"Analytic Combinatorics, Part I"
+4.0,1,Aplicaciones de la teoría de grafos a la vida real
+0.0,0,Intermediate Algebra
+0.0,0,Lógica y usos
+0.0,0,Laboratorio de modelización
+0.0,0,Descodificando Álgebra
+4.0,1,Algebra+
+5.0,8,Statistics: Making Sense of Data
+0.0,0,Passion Driven Statistics
+0.0,0,Initiation à la théorie des distributions
+4.5,2,Pre-Calculus
+0.0,0,Statistica
+0.0,0,Matemáticas esenciales en los números reales y complejos
+0.0,0,Partial Differential Equations
+5.0,1,Logic: Language and Information 2
+0.0,0,Mathematical Analysis
+3.5,4,Introduction to Statistics for the Social Sciences
+4.6,7,Mathematical Methods for Quantitative Finance
+4.7,19,Calculus: Single Variable
+4.0,4,Special Relativity
+4.4,8,Logic: Language and Information 1
+2.0,1,Fondamentaux en statistique
+4.7,3,Mathematics: the Language of Nature
+3.6,16,Coding the Matrix: Linear Algebra through Computer Science Applications
+0.0,0,Science Fiction/Science Fact: Predictions and Math (Lite)
+0.0,0,Introducción a la Teoría Combinatoria
+0.0,0,Teaching Statistical Thinking: Part 1 Descriptive Statistics
+0.0,0,Equations différentielles : de Newton à nos jours
+0.0,0,Mujeres coraje. Maestras de la transgresión
+0.0,0,Çok Değişkenli Fonksiyonlarda Türev ve Entegral II: İleri Konular ve Uygulamalar / Multivariable Calculus II: Applications and Advanced Topics
+4.0,5,Massively Multivariable Open Online Calculus Course
+0.0,0,Bases Matemáticas: números y terminología
+4.3,4,An Introduction to Functional Analysis
+4.2,10,Bases matemáticas: Integrales
+0.0,0,Mathe-MOOC: Mathematisch denken!
+5.0,1,Matemáticas y Movimiento
+0.0,0,数学之旅 The Journey of Mathematics
+0.0,0,Aplicaciones de la Teoría de Grafos a la vida real
+4.0,4,"Unpredictable? Randomness, Chance and Free Will"
+0.0,0,Numbers for Life
+5.0,1,Basic Arithmetic
+3.3,18,Statistics One
+0.0,0,機率 (Probability)
+4.7,7,Analysis of a Complex Kind
+0.0,0,Metodi quantitativi - Modulo statistica
+0.0,0,Einführung in die Wahrscheinlichkeitstheorie
+0.0,0,Precalculus Algebra
+3.6,12,Pre-Algebra
+0.0,0,Álgebra Lineal
+0.0,0,Teaching Math to English Language Learners
+0.0,0,Introduction to Numerical Methods - Part 2 of 2
+4.0,4,Getting a Grip on Mathematical Symbolism
+0.0,0,Introductory Course in Real Analysis
+0.0,0,Linear Regression Analysis and Forecasting
+2.0,1,Technical Math for Industry 
+0.0,0,Maths for Humans: Inverse Relations and Power Laws
+0.0,0,Mathematics for Chemistry
+0.0,0,"Basic Calculus for Engineers, Scientists and Economists"
+4.8,13,Introduction to Differential Equations
+0.0,0,التفاضل والتكامل 1
+0.0,0,التفاضل والتكامل 4
+0.0,0,التفاضل والتكامل 2
+0.0,0,التفاضل والتكامل 3
+0.0,0,Maths for Humans: Linear and Quadratic Relations
+0.0,0,Fundamentals of Engineering Statistical Analysis
+4.2,11,Calculus Two: Sequences and Series
+0.0,0,Chaotic Dynamical Systems
+0.0,0,微积分二: 数列与级数 (中文版)
+4.5,47,Calculus One
+0.0,0,Теория вероятностей – наука о случайности
+0.0,0,Теория вероятностей – наука о случайности. Часть 2
+0.0,0,Introduction to Probability: Part 2 - Inference and Processes
+0.0,0,Une SAGE introduction au calcul formel
+4.3,3,Nonlinear Dynamics 1: Geometry of Chaos
+0.0,0,Méthodes de sondage et d'enquête
+0.0,0,دليل الرياضيات للمرحلة الثانوية /العلمي‎
+0.0,0,Geometría analítica
+5.0,2,Mathematical Logic and Algorithms Theory
+0.0,0,Mathematik Online-Kurs - Mathematisch denken!
+4.7,6,Linear Differential Equations
+0.0,0,Introduction to Numerical Methods - Part 1 of 2
+4.3,7,Nonlinear Differential Equations: Order and Chaos
+0.0,0,Differential Calculus in Several Variables
+5.0,6,Statistics in Medicine
+4.2,5,Applied Logistic Regression
+0.0,0,Introduction to Statistical Hypothesis Testing
+5.0,1,Statistical Reasoning
+5.0,1,Precálculo Alpha: Primer paso a las Matemáticas Universitarias
+5.0,1,Descriptive Statistics
+0.0,0,Groupes finis : les mathématiques du Rubik's cube
+4.0,1,"Maths for Humans: Linear, Quadratic & Inverse Relations"
+0.0,0,Introduction à la logique informatique - Partie 2 : calcul des prédicats
+2.0,1,Real World Calculus: How Maths Drives Formula One and Launches Angry Birds
+0.0,0,Introducing Technology-Enhanced Teaching
+4.3,4,Probability
+0.0,0,Probability and Statistics
+5.0,2,Análisis Estadístico Básico con SPSS
+0.0,0,Geometría diferencial y Mecánica: una introducción
+0.0,0,Elementary Business Statistics
+0.0,0,Topology
+0.0,0,Higher Engineering Mathematics
+0.0,0,Discrete Mathematics (IITRopar)
+0.0,0,คณิตศาสตร์สำหรับวิทยาศาสตร์ข้อมูล (Mathematics for Data Science)
+0.0,0,Introductory Non-Linear Dynamics
+0.0,0,Discrete Mathematics (IITG)
+0.0,0,Mathematical Methods for Boundary Value Problems
+0.0,0,Stochastic Processes
+0.0,0,Pre-Calculus: Functions
+5.0,1,Basic Science: Understanding Numbers
+4.5,4,Pre-Calculus: Trigonometry
+0.0,0,Applied Logistic Regression
+5.0,1,Differential Equations and Their Symmetries Via Mathematical Models
+3.3,4,Inferential Statistics
+0.0,0,Дифференциальные уравнения и их симметрии на примере математических моделей
+5.0,1,Statistique pour l'ingénieur
+0.0,0,Quot erat demonstrandum. Curso cero de Matemáticas
+0.0,0,Caos y Dinámica No Lineal
+0.0,0,Advanced Engineering Mathematics
+0.0,0,Survival Statistics: Secrets for Demystifying Numbers
+0.0,0,Mathematical methods and its applications
+0.0,0,Chaotic Dynamical System
+0.0,0,MTH 309 Introduction to Linear Algebra (Placito)
+0.0,0,"Collection Mathématiques : 2- Équations du second degré, équations algébriques"
+0.0,0,Statistics for Business Economics
+0.0,0,Collection Mathématiques : 1- Dérivation et Étude de fonctions
+4.8,56,Nonlinear Dynamics: Mathematical and Computational Approaches
+0.0,0,Collection Mathématiques : 4- Raisonnement par récurrence et suites numériques
+0.0,0,Socle en Mathématiques
+0.0,0,Applied Trade Math MOOC
+0.0,0,"Matemáticas y Estadística: entiéndelas, úsalas"
+0.0,0,Probability and Statistics
+0.0,0,Why Numbers Matter: Quantitative Research
+0.0,0,Collection Mathématiques : 3- Nombres complexes
+0.0,0,Introducción a Matemática I
+0.0,0,Modern Algebra
+0.0,0,Introducción a Matemática III
+0.0,0,แคลคูลัสพื้นฐาน (Basic Calculus)
+0.0,0,Statistics Prep
+5.0,1,Discrete Mathematics
+3.5,4,Applied Regression Analysis
+0.0,0,Galois Theory
+0.0,0,Discrete Structures
+0.0,0,パズルで情報活用 (ga110)
+0.0,0,Commutative Algebra
+5.0,1,統計学Ⅱ:推測統計の方法 (ga047)
+0.0,0,How Cryptography Keeps The Internet Secure
+4.7,3,Statistical Reasoning for Public Health 2: Regression Methods
+0.0,0,Álgebra Básica
+0.0,0,Calculus of One Real Variable
+0.0,0,Modern Algebra
+0.0,0,Mathématiques : préparation à l'entrée dans l'enseignement supérieur
+0.0,0,Algèbre linéaire de première année d’enseignement supérieur
+0.0,0,Introduction to Methods of Applied Mathematics
+0.0,0,Integral Transforms And Their Applications
+0.0,0,Regression analysis
+0.0,0,Mathematical Finance
+0.0,0,"Introduction to Fuzzy Set Theory, Arithmetic and Logic"
+0.0,0,A basic course in number theory
+0.0,0,Information Theory
+0.0,0,MTH 309 Introduction to Linear Algebra (Deutsch)
+0.0,0,Algebra - I
+0.0,0,Computational Number Theory and Algebra
+4.5,2,Introduction à la statistique avec R
+0.0,0,"Groups: Motion, symmetry and puzzles"
+0.0,0,Matrix Analysis with Applications
+0.0,0,Real Analysis I
+0.0,0,Non-parametric Statistical Inference
+0.0,0,Constrained and unconstrained optimization
+0.0,0,Computational Commutative Algebra
+0.0,0,Calculus of Several Real Variables
+0.0,0,Introduction to Abstract Group Theory
+5.0,1,Introduction to Abstract and Linear Algebra
+0.0,0,Complex Analysis
+0.0,0,Mathematical Portfolio Theory
+0.0,0,Essential Mathematics for Machine Learning
+0.0,0,Laplace Transform
+0.0,0,Differential Calculus
+0.0,0,Introduction au raisonnement mathématique : préparation à l'entrée dans l'enseignement supérieur
+0.0,0,Mathematical Modelling: Analysis and Applications
+4.0,4,Statistics in Education for Mere Mortals
+0.0,0,Applied Multivariate Analysis
